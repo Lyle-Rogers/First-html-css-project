@@ -1,0 +1,9 @@
+Fonts "https://fontawesome.com/"
+bottega "https://bottega.tech"
+bottega logged in "https://mx.devcamp.com/public-profile/enoch-lebaron12377"
+what special characters are called "https://www.prepressure.com/fonts/basics/character-names"
+personALITY TEST AND MORE "https://mx.devcamp.com/digital-literacy/guide/personality-types-and-technical-careers"
+
+teaches you how to make your links animate and change color when you hover over them. 
+https://bottega.devcamp.com/digital-literacy/guide/introduction-css-animations 
+

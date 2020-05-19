@@ -1,0 +1,58 @@
+HTML mean's `hyper text markup language`
+CSS mean's caskating style sheet
+JS mean's javascipt
+
+
+
+HTML:5 is correct
+
+<!DOCTYPE html>
+
+<xmp></xmp> is for displaying code on page screen
+
+Images/Logos/decamp-fantastic-fries-logo-white.png
+
+<!DOCTYPE CSS>
+
+font-family: 'Ubuntu Condensed', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+align-items: center; mean's up and down
+
+justify-content: space-between; mean's left and right
+
+padding: 60px 100px; the first is top and botton the second is left and right 
+
+text-decoration: underline;
+
+display: flex;
+justify-content: space-between;
+align-items: center;  
+
+
+display: grid;
+grid-template-columns: 1fr;
+grid-gap: 10px;
+
+
+
+
+spanish
+
+ya termine mean's im done
+
+no esta bien means not good
+
+
+
+css coments to good
+
+/* padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 100px;
+    padding-left: 100px; */
+
+
+
+<i class="fas fa-phone-volume"></i> phone font
+<i class="fas fa-map-marker-alt"></i> gps
